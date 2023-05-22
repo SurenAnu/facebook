@@ -49,11 +49,10 @@ public class Face_Book extends FB_Base_Class{
 		driver.findElement(By.xpath("//*[@id='pass']")).sendKeys(excel("facebook", "fb", 2, 2));	
 		driver.findElement(By.xpath("//*[@name='login']")).click()	;
 			}}
+		System.out.println("facebook");
 		
 		
 		
-		
-		System.out.println("jbfkjsdbfkjdsbfbdsb");
 		
 		
 		
